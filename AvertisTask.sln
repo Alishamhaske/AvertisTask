@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvertisTask", "AvertisTask\AvertisTask.csproj", "{E8E17CEB-312C-45A4-8BAA-D4E9E0CC1667}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8E17CEB-312C-45A4-8BAA-D4E9E0CC1667}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8E17CEB-312C-45A4-8BAA-D4E9E0CC1667}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8E17CEB-312C-45A4-8BAA-D4E9E0CC1667}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8E17CEB-312C-45A4-8BAA-D4E9E0CC1667}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {364F64D0-D140-4C2F-BD3A-52EEA8D8BC26}
+	EndGlobalSection
+EndGlobal
